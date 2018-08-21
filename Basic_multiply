@@ -1,4 +1,4 @@
-// This file create 3 integer variables, multiply them then print the result.
+// This file create an integer variables, multiply then print the result.
 
 #include <stdio.h>
 
