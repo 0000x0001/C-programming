@@ -13,7 +13,7 @@ main()
     floating = 3.0 / 2.0;         // assign floating 1.5
     integer = floating;           // assign integer 1
     
-    printf("The floating-point is: %f", floating);
+    printf("The floating-point is: %f\n", floating);
     printf("The integer is : %d", integer);
     return (0);
 }
